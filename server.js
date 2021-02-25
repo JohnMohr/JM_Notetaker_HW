@@ -42,7 +42,7 @@ app.post("/api/notes", (req, res) => {
             throw(err)
         }
         // parse file as json
-        const data = JSON.parse(file)
+        const data = JSON.parse(file);
         const note = {...req.body};
 
         //create note object from req.body

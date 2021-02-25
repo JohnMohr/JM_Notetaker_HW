@@ -114,8 +114,8 @@ const renderNoteList = (notes) => {
         if(withDeleteButton) {
             const $delBtn = $("<i class='fas-fa-trash-alt float-right text-danger delete-note'>");
             $li.append($delBtn);
-        }
-        return $li;
+        };
+        return $li.append($delBtn)
     };
 
     if (notes.length === 0) {
