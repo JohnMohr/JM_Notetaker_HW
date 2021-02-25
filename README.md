@@ -30,7 +30,7 @@ After loading up the application install express by using npm i express. Launch 
 
 ## **Usage**
 
-[this is how you use it](thebestnotetaker.gif)
+![this is how you use it](thebestnotetaker.gif)
     
 *Instructions and Usage:*
 This is an application using Express to take notes. It uses CRUD functionality to add and remove notes based on user input.
