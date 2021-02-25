@@ -8,5 +8,10 @@
         "title": "n00t ",
         "text": "n00t",
         "id": 1
+    },
+    {
+        "title": "This is a note title",
+        "text": "this is a note text",
+        "id": 2
     }
 ]
