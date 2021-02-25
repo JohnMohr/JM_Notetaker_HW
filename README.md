@@ -29,6 +29,8 @@ After loading up the application install express by using npm i express. Launch 
 
 
 ## **Usage**
+
+[this is how you use it](url:https://github.com/JohnMohr/JM_Notetaker_HW/blob/main/public/assets/dev/thebestnotetaker.gif?raw=true)
     
 *Instructions and Usage:*
 This is an application using Express to take notes. It uses CRUD functionality to add and remove notes based on user input.
